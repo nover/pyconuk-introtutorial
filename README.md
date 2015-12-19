@@ -5,6 +5,13 @@ This tutorial requires *pandas*, *scikit-learn* and *IPython* with the IPython N
 be installed with *pip* by typing the following in terminal:
 
 	pip install numpy pandas sklearn ipython
+	
+For section 3, tensorflow is required. First install stuff from this guide:
+https://www.tensorflow.org/versions/master/get_started/os_setup.html#pip_install
+
+Then install this package:
+
+	pip install git+git://github.com/google/skflow.git
 
 We will be reviewing the materials with the IPython Notebook. You should be able to type
 	
